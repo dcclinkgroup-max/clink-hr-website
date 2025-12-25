@@ -5,7 +5,7 @@
 
 <head>
 	<!-- title -->
-	<title>Kryoss Work Pvt Ltd</title>
+	<title>CLink HR </title>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5" />
@@ -268,5 +268,6 @@
     </div>
   </section>
   <!--End Blog Grid-->
+
 
 		<?php include 'footer (1).php';?>
